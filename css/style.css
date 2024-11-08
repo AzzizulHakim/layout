@@ -1,0 +1,57 @@
+.header {
+    height: 100px;
+    background-color: red;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+.container{
+    overflow: hidden;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.blog {
+    float: left;
+    width: 60%;
+    height: 200px;
+    background-color: blue;
+}
+.contact {
+    float: right;
+    width: 40%;
+    height: 200px;
+    background-color: green;
+}
+
+.item {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.tomato {
+    background-color: tomato;
+}
+
+
+
+.footer {
+    height: 100px;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
